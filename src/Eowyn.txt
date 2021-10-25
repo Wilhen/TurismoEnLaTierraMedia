@@ -1,0 +1,9 @@
+Nombre: Eowyn
+PresupuestoInicial: 10.0
+TiempoDisponible: 8.0
+Atracciones adquiridas: 
+Minas Tirith
+Abismo de Helm
+Erebor
+Precio total a pagar: 10.0 monedas de oro
+Duración total de las atracciones: 7.5 Horas

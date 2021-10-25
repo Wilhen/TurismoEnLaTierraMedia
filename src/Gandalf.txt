@@ -1,0 +1,8 @@
+Nombre: Gandalf
+PresupuestoInicial: 100.0
+TiempoDisponible: 5.0
+Atracciones adquiridas: 
+Cueva del Antiguo
+LothlÃ³rien
+Precio total a pagar: 40.0 monedas de oro
+Duración total de las atracciones: 5.0 Horas

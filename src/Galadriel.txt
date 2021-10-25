@@ -1,0 +1,8 @@
+Nombre: Galadriel
+PresupuestoInicial: 120.0
+TiempoDisponible: 6.0
+Atracciones adquiridas: 
+Cueva del Antiguo
+Moria
+Precio total a pagar: 15.0 monedas de oro
+Duración total de las atracciones: 6.0 Horas

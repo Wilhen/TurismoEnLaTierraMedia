@@ -1,0 +1,8 @@
+Nombre: Sam
+PresupuestoInicial: 36.0
+TiempoDisponible: 8.0
+Atracciones adquiridas: 
+Bosque Negro
+Mordor
+Precio total a pagar: 22.400000000000002 monedas de oro
+Duración total de las atracciones: 7.0 Horas

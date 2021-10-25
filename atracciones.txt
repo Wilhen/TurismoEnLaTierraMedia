@@ -1,0 +1,9 @@
+Cueva del Antiguo-5.0-4.0-50
+Moria-10.0-2.0-6
+La Comarca-3.0-6.5-150
+Minas Tirith-5.0-2.5-25
+Mordor-25.0-3.0-4
+Abismo de Helm-5.0-2.0-15
+Lothlórien-35.0-1.0-30
+Erebor-12.0-3.0-32
+Bosque Negro-3.0-4.0-12
